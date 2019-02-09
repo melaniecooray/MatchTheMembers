@@ -7,4 +7,3 @@ This app is designed to make it easier to learn the names of all the members of 
 ![Alt text](/screenshots/screenshot2.png?raw=true "Main Screen")
 
 ![Alt text](/screenshots/screenshot3.png?raw=true "Statistics Screen")
-
